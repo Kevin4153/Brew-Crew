@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941985854411",
+    "project_id": "brew-tutorial-10841",
+    "storage_bucket": "brew-tutorial-10841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941985854411:android:6af97482ccf5a78b65fc4e",
+        "android_client_info": {
+          "package_name": "com.kevin.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941985854411-463rsgu9qhs7hgdt0600r39vg6g0m6p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclCn8VhyoHpkxKlO1nYh3pJQmgMkvxAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941985854411-463rsgu9qhs7hgdt0600r39vg6g0m6p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
